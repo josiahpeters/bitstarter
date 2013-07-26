@@ -81,3 +81,7 @@
       .footer a {
         color: #ccccff;
       }
+
+      .img-polaroid {
+          width: 480px;
+      }
